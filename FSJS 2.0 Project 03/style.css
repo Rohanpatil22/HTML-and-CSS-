@@ -1,0 +1,168 @@
+/* You can not modify anything from the HTML file */
+/* You can only modify the CSS file */
+body{
+    font-family: calibri;
+   
+}
+.container{
+    margin-top:20px;
+}
+nav{
+    display:flex;
+    column-gap: 200px;;
+    justify-content:flex-start;
+    height:60px;
+    align-items: center;
+    margin-bottom: 50px;;
+    
+}
+
+ul{
+    display:flex;
+    list-style: none;
+    column-gap: 50px;
+    width:400px;
+    align-content:flex-start;
+    font-size:18px;
+    
+    
+}
+
+nav div img{
+    width:90px;
+    margin-left:130px;
+}
+
+.button-group{
+
+    display:flex;
+    column-gap: 15px;
+}
+
+li:first-child{
+    font-weight:600;
+    text-decoration: underline;
+    
+}
+
+li{
+    font-weight: bold;
+}
+
+.nav-button{
+    background-color: white;
+    padding:3px;
+    border-radius: 10px;
+    width:130px;
+    font-size: 17px;
+
+}
+
+.hero-container{
+
+    display: flex;
+    flex-wrap: wrap;
+    height:760px;
+    justify-content: space-around;
+}
+
+.square{
+   position:absolute;
+   left:160px;
+   top:330px;
+   width:60%;
+}
+
+.hero-container-right{
+    order:2;
+}
+
+.star_1{
+    order:3;
+    position:absolute;
+    left:680px;
+    bottom:50px;
+}
+
+.star{
+   
+    position:absolute;
+    right:250px;
+    top:80px;
+}
+.globe{
+    order:2;
+    position:absolute;
+    left:760px;
+}
+
+.hero-container-right{
+
+    width:400px;
+    margin-top:100px;
+}
+
+.hero_img{
+
+    position:relative;
+    top:90px;
+    left:40px;
+    height:60%;
+}
+
+.hero-container-right{
+
+   
+    width:40%;
+}
+
+.hero-container-right > h1{
+    font-size:60px;
+
+}
+
+.hero-description{
+
+    text-align: center;
+}
+
+.button-email{
+margin-top:60px;
+margin-left:140px;
+padding:7px;
+width:170px;
+border-radius:14px;
+background-color: white;
+color:#808080;
+font-weight:bold;
+font-size:15px;
+}
+
+.button-join{
+
+    padding:7px;
+    background-color:black;
+    color:white;
+    border-radius:12px;
+    margin-left:10px;
+    font-size:15px;
+    font-weight: bold;
+}
+
+.contact-heading{
+
+    text-align:center;
+    color:#808080;
+    font-size:20px;
+    margin-top: 80px;
+}
+
+.icons{
+
+    text-align: center;
+    
+}
+
+.icons img{
+    margin-right:15px;
+}
