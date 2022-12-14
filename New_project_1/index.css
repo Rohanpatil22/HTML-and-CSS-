@@ -82,7 +82,7 @@ body{
     gap:120px;
     align-items: center;
     background-color: #2f302f;
-    height:150px;
+    height:200px;
 }
 
 .logo-section img{
@@ -91,4 +91,54 @@ body{
 
 .main2_sec1{
     display:flex;
+}
+
+.vertical_card_sect{
+    background-color: #fcf0fc;
+    text-align: center;
+}
+
+.feedback_section{
+    text-align:center;
+}
+
+.rect{
+    width:100%;
+    position:absolute;
+    top:4100x;
+   
+}
+
+.diamond{
+
+    position: absolute;
+    top:4100x;
+}
+.diamond_2{
+
+    position: absolute;
+    top:4100x;
+    right:0px;
+}
+
+
+.bottom_navbar{
+    margin-left:90px;
+    color:white;
+    display:flex;
+    justify-content:start;
+    align-items:center;
+    gap:200px;
+}
+
+.bottom_navbar div ul{
+    display:flex;
+    
+}
+
+.bottom_navbar div ul li{
+    list-style: none;
+    margin-left:60px;
+    
+   
 }
