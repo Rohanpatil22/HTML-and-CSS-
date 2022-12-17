@@ -131,3 +131,15 @@ body{
     font-size:20px;
     color:#e6e3e3;
 }
+
+#left_arrow{
+    position: absolute;
+    left: 250px;
+    top: 2770px;
+}
+
+#right_arrow{
+    position: absolute;
+    right: 250px;
+    top: 2770px;
+}
