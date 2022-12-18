@@ -143,3 +143,28 @@ body{
     right: 250px;
     top: 2770px;
 }
+
+.card_div{
+    margin-top:150px;
+    display:flex;
+    justify-content: center;
+    gap:30px;
+    margin-bottom:100px;
+}
+
+.amount-card{
+    width:14%;
+    border-radius:20px;
+    background-color: white;
+    padding:25px;
+}
+
+.features_div{
+
+    display:flex;
+    color:black;
+    gap:10px;
+    align-items: center;
+    margin-top:15px;
+
+}
