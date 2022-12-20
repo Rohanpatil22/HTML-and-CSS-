@@ -1,0 +1,141 @@
+
+body{
+    width:100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.main_div{
+
+    background-image: url("./Project 3- Gaming Landing Page/Assets/Photos/futuristic-bg.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+    width:100%;
+    height:850px;
+}
+
+.navbar{
+    display:flex;
+    align-items: center;
+    padding-top:30px;
+    
+}
+
+.navbar div img{
+    width:110px;
+    margin-left:130px;
+}
+
+.navbar div ul{
+    display:flex;
+    color:white;
+  align-items: center;
+ 
+}
+
+.navbar div ul li{
+    list-style:none;
+    margin-left:60px;;
+}
+
+.list_div{
+    margin-left:60px;
+}
+
+.btn_div{
+    
+    margin-left:400px;
+}
+
+#button_1{
+    background: transparent;
+    color:white;
+}
+
+#button_2{
+    background-color: #f4694c;
+    padding: 12px;
+    width:110px;
+    color:white;
+    margin-left: 10px;
+    font-weight: bold;;
+}
+
+.text_heading div{
+   
+     color:white;
+}
+.text_heading{
+    margin-top:200px;
+    margin-left:130px;
+}
+#heading_1{
+    font-size:50px;
+    font-weight:bold;
+    width:38%;
+    line-height: 1.3;
+
+}
+
+#heading_2{
+    font-size:17px;
+    margin-top:20px;
+    width:32%;
+    line-height: 1.3;
+    margin-bottom: 30px;
+    color:gray;
+}
+
+.text_heading div button{
+    padding:12px;
+    width:120px;
+    background: transparent;
+    color:white;
+    font-weight: bold;
+
+}
+
+.cart_1{
+   
+    background-image:url('./Project 3- Gaming Landing Page/Assets/Photos/image 2.png');
+    background-size:300px 350px; 
+    background-repeat: no-repeat;
+    width: 300px;
+    height:350px;
+
+}
+
+.games_div img{
+    width:15px;
+    margin-left:5px;
+}
+
+.cart_3{
+   
+    background-image:url('./Project 3- Gaming Landing Page/Assets/Photos/image 3.png');
+    background-size:300px 350px; 
+    background-repeat: no-repeat;
+    width: 300px;
+    height:350px;
+
+}
+
+.cart_2{
+   
+    background-image:url('./Project 3- Gaming Landing Page/Assets/Photos/image 4.png');
+    background-size:300px 350px; 
+    background-repeat: no-repeat;
+    width: 300px;
+    height:350px;
+
+}
+
+.cart_4{
+   
+    background-image:url('./Project 3- Gaming Landing Page/Assets/Photos/Rectangle\ 56.png');
+    background-size:300px 350px; 
+    background-repeat: no-repeat;
+    width: 300px;
+    height:350px;
+
+}
