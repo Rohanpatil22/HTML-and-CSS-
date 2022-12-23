@@ -64,3 +64,28 @@ body{
     border:none;
     font-weight: bold;
 }
+
+.logo_div{
+    background-color: white;
+    width:90%;
+    display:flex;
+    justify-content: space-around;
+    margin:auto;
+    padding: 35px;
+    border-radius: 20px;
+    position: absolute;
+    top:920px;
+    left:40px;
+   
+}
+
+.logo_div div img{
+
+    width:120px;
+}
+
+.home_img{
+
+    height:500px;
+    background-color: rgb(214, 218, 218);
+}
