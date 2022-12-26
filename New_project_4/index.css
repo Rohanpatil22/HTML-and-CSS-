@@ -2,6 +2,7 @@ body{
     width:100%;
     margin:auto;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    overflow-x: hidden;
 }
 .main_div{
 
@@ -86,7 +87,7 @@ body{
 
 .home_img{
 
-    height:3000px;
+    height:3800px;
     background-color: rgb(214, 218, 218);
 }
 
