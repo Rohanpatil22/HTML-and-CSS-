@@ -38,3 +38,10 @@ li button{
     align-items:center;
     gap:0px;
 }
+
+.logo_div{
+    display:flex;
+    justify-content: center;
+    margin-top:50px;
+    gap:80px;
+}
