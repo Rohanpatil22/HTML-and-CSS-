@@ -45,3 +45,13 @@ li button{
     margin-top:50px;
     gap:80px;
 }
+
+.font_sty{
+    color:gray;
+    font-size:15px;
+
+}
+
+.font_sty div{
+    margin-top:10px;
+}
